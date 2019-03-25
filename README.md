@@ -7,7 +7,7 @@ Omniauth Strategy for https://open.weixin.qq.com/
 ## Installation
 
 ```ruby
-gem "omniauth-weixin-oauth2", git: 'git@github.com:yangsr/omniauth-weixin-oauth2.git'
+gem "omniauth-weixin-oauth2", git: 'git@github.com:sqsy/omniauth-weixin-oauth2.git'
 ```
 
 ## Usage
