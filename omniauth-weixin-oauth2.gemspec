@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.author       = 'Revised based on works of Skinnyworm and yangsr'
   s.email        = 'askinnyworm@gmail.com'
 
-  s.add_dependency 'omniauth', '~> 1.0'
-  s.add_dependency 'omniauth-oauth2', '~> 1.0'
+  s.add_dependency 'omniauth', '~> 1.9.0'
+  s.add_dependency 'omniauth-oauth2', '~> 1.6.0'
   s.add_development_dependency 'rspec', '~> 2.7'
 end
