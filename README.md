@@ -30,7 +30,7 @@ You can now access the OmniAuth Wechat OAuth2 URL: `/auth/weixin`
 
 ## Credits
 
-Skinnyworm, If you want the Omniauth Strategy for http://mp.weixin.qq.com, Click [here](https://github.com/skinnyworm/omniauth-weixin-oauth2)
+Skinnyworm, If you want the Omniauth Strategy for http://mp.weixin.qq.com, Click [here](https://github.com/skinnyworm/omniauth-wechat-oauth2)
 
 ## Notice
 There is some difference between https://open.weixin.qq.com/ and http://mp.weixin.qq.com, plz choose the appropriate gem to use.
